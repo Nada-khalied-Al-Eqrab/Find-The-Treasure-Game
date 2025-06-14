@@ -8,11 +8,13 @@ Welcome to **Find The Treasure**, a fully interactive educational game designed 
 
 ## 📽️ Demo Video
 
-Watch the game in action on YouTube: Game Demo Video
+🎥 Watch the game in action on YouTube: [Game Demo Video](https://www.youtube.com/watch?v=CkWUve0qmuk)
 
 ## 🎓 Free Course Playlist
 
-Learn how to design similar games step-by-step using PowerPoint: YouTube Playlist
+📚 Learn how to design similar games step-by-step using PowerPoint: [YouTube Playlist](https://www.youtube.com/playlist?list=PLkWCvvthnaLUpktei4WDCQkXs0eYKrxtR)
+
+---
 
 ## 🧭 How to Play
 
@@ -28,6 +30,8 @@ Wrong answers lead to an alert slide:
 
 > "It seems you are not a true pirate. You have angered the pirate crew, and the cannons will be fired at you now if you do not try to answer again."
 
+---
+
 ## 📚 Pirate Quiz Questions
 
 1. What do pirates use to search for treasure? → **A) Map**
@@ -39,36 +43,54 @@ Wrong answers lead to an alert slide:
 7. What object is NOT used by pirates? → **B) Umbrella**
 8. What’s inside a treasure chest? → **A) Gold and Jewels**
 
+---
+
 ## 🧠 Facts Unlocked After Each Correct Answer
 
 After answering correctly, the player is shown educational facts about pirate maps, ships, parrots, flags, telescopes, treasures, and more!
 
+---
+
 ## 🔊 Sound Effects
 
-- **Main Theme:** Pirates of the Caribbean
-- **Correct Answer:** Applause
-- **Wrong Answer:** Angry pirate sound + cannon
-- **Magic Box Opening:** Sparkle sound
-- **Button Click:** Sword clash
+- **Main Theme:** Pirates of the Caribbean  
+- **Correct Answer:** Applause  
+- **Wrong Answer:** Angry pirate sound + cannon  
+- **Magic Box Opening:** Sparkle sound  
+- **Button Click:** Sword clash  
+
+---
 
 ## 🧩 Buttons & Navigation
 
-- **Play** - Start the game
-- **Open** - Reveal a question
-- **Closed** - Locked boxes
-- **Done** - Question answered
-- **Retry** - Try again after a wrong answer
-- **→ / ←** - Navigate slides
+- **Play** – Start the game  
+- **Open** – Reveal a question  
+- **Closed** – Locked boxes  
+- **Done** – Question answered  
+- **Retry** – Try again after a wrong answer  
+- **→ / ←** – Navigate slides  
+
+---
 
 ## 🛠 Requirements
 
-- Microsoft PowerPoint 2016 or later
-- Sound enabled
+- Microsoft PowerPoint 2016 or later  
+- Sound enabled  
+
+---
 
 ## 🧑‍💻 Created by
 
-Nada Al-Eaqrab – A digital learning designer & YouTuber. Connect with her on YouTube and explore her educational projects.
+**Nada Al-Eaqrab** – A digital learning designer & YouTuber.  
+Connect with her on YouTube and explore her educational projects.
+
+---
 
 ## 🌟 License
 
-Free for educational use. Commercial redistribution or republishing is not allowed without the creator’s permission.
+Free for educational use.  
+Commercial redistribution or republishing is not allowed without the creator’s permission.
+
+---
+
+🎯 **Enjoy the treasure hunt and never stop learning like a true pirate adventurer! 🏴‍☠️**
